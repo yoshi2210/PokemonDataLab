@@ -1,4 +1,7 @@
-# ポケモンで学ぶデータモデリングとAPI
+# ポケモンで学ぶデータモデリングとAPI(WIP)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oqf7CbJG63TjrFFdTE9yhYNnuCYFaJ9E#scrollTo=fRKRxnYC9lOf)
+
 
 ポケモンに関するデータは、大きく分けて3種類の取得方法があるといえる。Bulbapedia, SEREBI NET,Veekunあたりが有名どころだ。  
 １つ目は、まとめWikiサイトや公式サイトからスクレイピングする方法。  
